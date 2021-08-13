@@ -1,1 +1,2 @@
-# udacity-cloud-devops-capstone
+# udacity-aws-capestone
+Capstone project for Udacity AWS DevOps nanodegree
