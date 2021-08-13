@@ -16,6 +16,6 @@ kubectl run mlapi\
 # List kubernetes pods
 kubectl get pods
 
-# Step 4:
+# Step 4 :
 # Forward the container port to a host
 kubectl port-forward mlapi 8000:80
